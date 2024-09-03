@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kotlasuresh&label=Profile%20views&color=0e75b6&style=flat" alt="kotlasuresh" /> 
 </p>
@@ -16,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [Kotla Suresh]()
+- 👨‍💻 All of my projects are available at [Kotla Suresh](https://github.com/KotlaSuresh)
 
 - 💬 Ask me about **Python, Data Analysis, SQL, Power BI, PySpark, Excel, EDA**
 
