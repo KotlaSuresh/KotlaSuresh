@@ -30,7 +30,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kotlasuresh" height="30" width="40" />
 </a>
 
-<h3 align="left">Suresh-Portfolio:</h3>
+<h3 align="left">Portfolio:</h3>
 <a href="https://kotlasuresh.github.io/Suresh-Portfolio/" target="_blank">
   <img align="center" src="https://img.icons8.com/ios-filled/50/000000/briefcase.png" alt="Portfolio" height="30" width="40" />
 </a>
