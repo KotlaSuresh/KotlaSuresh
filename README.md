@@ -23,13 +23,12 @@
 - ⚡ Fun fact: **I think data is the fuel to run businesses**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/kotlasuresh2000/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kotlasuresh" height="30" width="40" />
   </a>
   <a href="https://kotlasuresh.github.io/Suresh-Portfolio/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/briefcase.svg" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
